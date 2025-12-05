@@ -1,23 +1,22 @@
-# NMD 悦龙 Radiant2Pro
-第二代悦龙R Pro 规格
----
+# NMD Family系列
 
-* 架构：Family Krint
+* 架构：Delta Krint
 * 市场：Arm移动端
 
 ---
 
 ## CPU规格
 ### NMD 悦龙
-Family Krint架构
+Delta Krint架构
 - 日益的性能引领着
 - 先进的架构与工艺
+
 
 ---
 
 ## 显卡规格
 ### NMD 悦龙 Graphics
-Vurtel Engine 5架构
+Vurtel Engine 4架构
 - 全新图形引领着
 - 图形性能首选
 - 开源的图形驱动
@@ -25,7 +24,7 @@ Vurtel Engine 5架构
 ---
 ## AI功能
 ### NMD Aurora Engine
-Vurtel Engine 5N架构
+Vurtel Engine 4N架构
 - 全新的AI架构
 - 日益的训练
 
@@ -33,7 +32,7 @@ Vurtel Engine 5N架构
 
 ## 视频功能
 ### NMD 悦龙R2P VPU
-Vurtel Engine 5V架构
+Vurtel Engine 4V架构
 - 完整的解码支持
 - 更好的编码结构
 - 完善的API
