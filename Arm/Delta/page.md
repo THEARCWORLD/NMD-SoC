@@ -41,10 +41,10 @@ Vurtel Engine 5V架构
 ---
 
 ## 我们的产品
-* [NMD 第二代悦龙Radiant](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Radiant Pro](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Radiant s](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Xenilcey](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Xenilcey Pro](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Xenilcey Lite](./Arm/Family/NMD_YD_R2.md)
-* [NMD 第二代悦龙Xenilcey Ultra](./Arm/Family/NMD_YD_R2.md)
+* [NMD 第一代悦龙Radiant](./Arm/Family/NMD_YD_R.md)
+* [NMD 第一代悦龙Radiant Pro](./Arm/Family/NMD_YD_RP.md)
+* [NMD 第一代悦龙Radiant s](./Arm/Family/NMD_YD_Rs.md)
+* [NMD 第一代悦龙Xenilcey](./Arm/Family/NMD_YD_X.md)
+* [NMD 第一代悦龙Xenilcey Pro](./Arm/Family/NMD_YD_XP.md)
+* [NMD 第一代悦龙Xenilcey Lite](./Arm/Family/NMD_YD_Xi.md)
+* [NMD 第一代悦龙Xenilcey Ultra](./Arm/Family/NMD_YD_XU.md)
