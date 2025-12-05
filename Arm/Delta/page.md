@@ -1,4 +1,4 @@
-# NMD Family系列
+# NMD Delta系列
 
 * 架构：Delta Krint
 * 市场：Arm移动端
