@@ -1,5 +1,7 @@
 # NMD Delta系列
 
+[主页](https;//github.com/THEARCWORLD/NMD-SoC/)
+
 * 架构：Delta Krint
 * 市场：Arm移动端
 
